@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\bin\Debug\GIAODIENDEMO.exe.config
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\bin\Debug\GIAODIENDEMO.exe
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\bin\Debug\GIAODIENDEMO.pdb
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.Form1.resources
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.Properties.Resources.resources
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.exe
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.pdb
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.frm_GiaoVien.resources
+C:\Users\asus\source\repos\GIAODIENDEMO\GIAODIENDEMO\obj\Debug\GIAODIENDEMO.frm_SinhVien.resources
